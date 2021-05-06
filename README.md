@@ -1,6 +1,6 @@
 # UDP and TCP Chatting
 
-This a project made in a distributed systems course.
+This a project created in Java that was created for a distributed systems course.
 
 This contains a simple chat GUI that handles sending messages by using the TCP protocol and sockets and UDP protocol between one Server and multiple clients. When typing a message it will broadcast to all users currently online in the chat. 
 
