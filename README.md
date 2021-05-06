@@ -1,4 +1,4 @@
-# TCP-Chatting
+# UDP-and-TCP-Chatting
 
 This a project made in a distributed systems course.
 
