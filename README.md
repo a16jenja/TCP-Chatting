@@ -6,6 +6,6 @@ This contains a simple chat GUI that handles sending messages by using the TCP p
 
 There are multiple commands to run which include:
 
-"/leave" to leave the chat
-"/tell" to private message another user that is in the chat
-"/list" to list all users currently online in the chat
+* "/leave" to leave the chat
+* "/tell" to private message another user that is in the chat
+* "/list" to list all users currently online in the chat
